@@ -7,8 +7,8 @@ This is my professional personal website. I have created this site to give folk 
 
 Built With
 
-*Css
+Css
 
-*Javascript
+Javascript
 
-*Html
+Html
